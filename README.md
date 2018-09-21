@@ -1,6 +1,8 @@
 A simple Calculator build using Reactjs framework.
 For evaluation [math.js](http://mathjs.org) library is used.
 
+![App ScreenShot](app-ss.png)
+
 
 To install all dependency
 
